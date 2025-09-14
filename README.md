@@ -21,7 +21,21 @@
 <p align="left"></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Development Tools:</h3>
-<p align="left"></a> <a href="https://www.st.com/en/development-tools/stm32cubeprog.html" target="_blank" rel="noreferrer"> <img src="icon/development_tools/stm32cube.png" alt="c" width="40" height="40""/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icon/development_tools/vscode.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icon/development_tools/git.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="icon/development_tools/arduino.png" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.st.com/en/development-tools/stm32cubeprog.html" target="_blank" rel="noreferrer">
+    <img src="icon/development_tools/stm32cube.png" alt="stm32cubeprog" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="icon/development_tools/vscode.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="icon/development_tools/git.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="icon/development_tools/arduino.png" alt="arduino" width="40" height="40"/>
+  </a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtnhan2&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vtnhan2" /></p>
 
