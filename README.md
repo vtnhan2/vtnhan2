@@ -34,6 +34,10 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="icon/development_tools/arduino.png" alt="arduino" width="40" height="40"/>
   </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="icon/development_tools/jupyterlab.png" alt="jupyterlab" width="40" height="40"/>
+</a>
+
 </p>
 
 
